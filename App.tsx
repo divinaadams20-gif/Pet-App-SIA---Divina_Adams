@@ -145,7 +145,7 @@ export default function App() {
       <section className="w-full rounded-[36px] border-4 border-red-500/50 bg-black/45 p-6 shadow-[0_30px_90px_-20px_rgba(0,0,0,0.9)] sm:p-10">
         <header>
           <h1 className="mt-3 text-4xl font-bold tracking-tight text-white sm:text-5xl">
-            Divina Pet App
+            Pet App - Divina  
           </h1>
         </header>
 
@@ -166,7 +166,7 @@ export default function App() {
               />
             ) : (
               <p className="px-8 text-center text-sm text-red-100/60">
-                The selected breed will be shown here.
+               Select a breed
               </p>
             )}
           </figure>
